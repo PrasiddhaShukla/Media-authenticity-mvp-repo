@@ -8,7 +8,7 @@ from sklearn.metrics import classification_report, confusion_matrix
 # Always build path relative to project root
 BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 MODEL_PATH = os.path.join(BASE_DIR, "notebooks", "models", "classifier.h5")
-DATA_PATH = os.path.join(BASE_DIR, "data")
+DATA_PATH = os.path.join(BASE_DIR, "data", "data1")
 
 # Load model
 model = tf.keras.models.load_model(MODEL_PATH)
