@@ -1,0 +1,18 @@
+# Virtual environment 
+venv/ 
+# Python cache 
+__pycache__/ 
+*.pyc 
+*.pyo 
+*.pyd 
+ECHO is on.
+# Env vars 
+.env 
+ECHO is on.
+# IDE/editor files 
+.vscode/ 
+.idea/ 
+ECHO is on.
+# OS junk 
+.DS_Store 
+Thumbs.db 
