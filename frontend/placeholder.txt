@@ -1,0 +1,1 @@
+Frontend will go here (React/Next.js planned).
