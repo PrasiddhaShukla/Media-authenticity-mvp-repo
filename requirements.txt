@@ -6,3 +6,6 @@ transformers
 pillow
 numpy
 scikit-learn
+tensorflow
+opencv-python
+matplotlib
