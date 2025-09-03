@@ -15,6 +15,6 @@ This dataset contains images categorized into **FAKE** (AI-generated) and **REAL
 
 ## How to Access
 Due to GitHub size limits, the full dataset is stored externally.  
-You can download it here: [Google Drive Link](https://drive.google.com/drive/folders/1ozWFl1a7FVnYimEwbzE_XNgzDOrprb26?usp=sharing)
+You can download it here: [Kaggle Dataset Download link](https://www.kaggle.com/datasets/birdy654/cifake-real-and-ai-generated-synthetic-images)
 
 After downloading, place it in the project root:
